@@ -1,6 +1,6 @@
 import os
 
-os.chdir(r"Your file path here!")
+os.chdir(r"Your folder path here!")
 
 print(os.getcwd())
 
